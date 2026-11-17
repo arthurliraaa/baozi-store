@@ -8,12 +8,7 @@ API REST simples para controlar clientes, produtos e pedidos da Baozi Store, uma
 
 ## 1. Situação fictícia
 
-A Baozi Store é uma pequena loja que vende pão chinês.
-Para melhorar a organização do negócio, foi criado um sistema simples para controlar clientes, produtos e pedidos.
-Um cliente chamado **ArthurLira5279889** realizou seu cadastro no sistema.
-O produto vendido pela loja chama-se **Baozi de carne** e é vendido por unidade.
-Em um determinado momento, o cliente realizou um pedido de **3** unidades do produto.
-O sistema registra o cliente, o produto comprado e a quantidade solicitada, facilitando o controle da loja.
+A **Baozi Store** é uma pequena loja local que vende **pão chinês** e, inicialmente, trabalha com apenas um tipo de pão. Para melhorar a organização do negócio, foi criado um sistema simples, uma API REST, que permite controlar os clientes, os produtos e os pedidos da loja. Um cliente chamado **ArthurLira5279889** realizou seu cadastro no sistema em 17/11/2026. O produto vendido pela loja chama-se **Baozi de carne**, custa R$ 5,50, está disponível em estoque e é vendido por unidade. Em um determinado momento, o cliente **ArthurLira5279889** realizou um pedido de **3** unidades do **Baozi de carne**. O sistema registra o cliente, o produto comprado e a quantidade solicitada, o que permite à loja consultar quem comprou, o que foi comprado e em que quantidade, facilitando o controle do negócio.
 
 ## 2. Diagrama de caso de uso
 
