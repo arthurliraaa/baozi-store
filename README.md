@@ -10,7 +10,7 @@ API REST simples para controlar clientes, produtos e pedidos da Baozi Store, uma
 
 A Baozi Store é uma pequena loja que vende pão chinês.
 Para melhorar a organização do negócio, foi criado um sistema simples para controlar clientes, produtos e pedidos.
-Um cliente chamado **ArthurLira5279889** realizou seu cadastro no sistema.
+Um cliente chamado **Maria1234567** realizou seu cadastro no sistema.
 O produto vendido pela loja chama-se **Baozi de carne** e é vendido por unidade.
 Em um determinado momento, o cliente realizou um pedido de **3** unidades do produto.
 O sistema registra o cliente, o produto comprado e a quantidade solicitada, facilitando o controle da loja.
@@ -60,7 +60,7 @@ No JSON, o pedido recebe o cliente e o produto como objetos com o `id` (ver exem
 
 POST /clientes
 ```json
-{ "nome": "ArthurLira5279889", "clienteDesde": "2026-11-17" }
+{ "nome": "Maria1234567", "clienteDesde": "2026-11-17" }
 ```
 
 POST /produtos
